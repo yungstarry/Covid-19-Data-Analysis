@@ -1,5 +1,8 @@
 # Comprehensive Analysis of COVID-19 Data Across Countries and Continents
 
+![Covid Image ](https://github.com/yungstarry/Covid-19-Data-Analysis/blob/main/covidImg.jpg?raw=true)
+
+
 ## 1. Introduction
 The COVID-19 pandemic has significantly impacted countries and regions globally, highlighting disparities in healthcare systems, vaccination campaigns, and outcomes. This project aims to analyze the progression of COVID-19 cases, deaths, and vaccinations across continents and countries to draw insights that can inform policies and preparedness for future pandemics.
 
@@ -30,6 +33,11 @@ The dataset spans 2020 to 2024 and includes key features such as country, contin
    - Extracted year values from dates to enable year-based analysis.
    - Removed duplicate records.
    - Filtered irrelevant columns for analysis.
+  
+
+![Covid Image ](https://github.com/yungstarry/Covid-19-Data-Analysis/blob/main/Excelfile.png?raw=true)
+![Covid Image ](https://github.com/yungstarry/Covid-19-Data-Analysis/blob/main/Excel%20Image.png?raw=true)
+![Covid Image ](https://github.com/yungstarry/Covid-19-Data-Analysis/blob/main/Pythoncleaning.png?raw=true)
 
 ### 3.3 Exploratory Data Analysis (EDA)
 - Identified trends and distributions in COVID-19 cases, deaths, and vaccination rates using descriptive statistics.
@@ -54,6 +62,8 @@ The dataset spans 2020 to 2024 and includes key features such as country, contin
 5. Finalized cleaned dataset for analysis.
 
 ---
+
+![image](https://github.com/user-attachments/assets/a4cb03c2-275d-47e3-ad03-03c70ba0cb8a)
 
 ## 5. Data Structure
 **Overview:**
@@ -86,6 +96,7 @@ The dataset spans 2020 to 2024 and includes key features such as country, contin
 - The **Country** dimension links both **Continent** and COVID-19 metrics (cases, deaths, vaccinations).
 - The **Date** dimension tracks changes in metrics over time.
 - **Continent** serves as a grouping dimension for countries, enabling aggregate analysis.
+![image](https://github.com/user-attachments/assets/2dd691c5-7d05-4cee-9a99-b3ba202a649c)
 
 ---
 
@@ -111,6 +122,8 @@ The dataset spans 2020 to 2024 and includes key features such as country, contin
 
 ### 6. **Map Visualization**
 - Provides a geographical representation of COVID-19 metrics, enabling easy identification of affected regions.
+
+  ![image](https://github.com/user-attachments/assets/be0c2394-a375-4039-81fb-a8eef347a154)
 
 ---
 
@@ -161,4 +174,4 @@ The dataset spans 2020 to 2024 and includes key features such as country, contin
 
 ---
 
-### Add the file to your GitHub repository with this format. Let me know if you need additional support!
+### [Click Here to Read More](https://medium.com/@starzgist/comprehensive-analysis-of-covid-19-data-across-countries-and-continents-7b99de9650ac)
